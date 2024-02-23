@@ -9,9 +9,4 @@ Thought Box is a basic thought-providing webpage created using React and a thoug
 - **User-friendly Interface**: Offers an intuitive and easy-to-use interface for seamless browsing and exploration of thoughts.
 - **Random Thought Generator**: Allows users to discover new thoughts with a click of a button, providing endless inspiration.
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
